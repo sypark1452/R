@@ -1,2 +1,2 @@
-print("hello wor ld")
+print("hello world")
 print("mac first R")
